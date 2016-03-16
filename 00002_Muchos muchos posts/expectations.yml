@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: puntosTotales
+  inspection: HasTypeSignature
+- binding: mensajesPopulares
+  inspection: HasTypeSignature
+- binding: puntosTotales
+  inspection: HasUsage:(.)
+- binding: mensajesPopulares
+  inspection: HasUsage:(.)
