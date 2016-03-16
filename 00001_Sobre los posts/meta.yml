@@ -1,5 +1,8 @@
 ---
-tags: []
+tags:
+- tuplas
+- pattern-matching
+- listas
 layout: editor_right
 type: problem
 extra_visible: false
