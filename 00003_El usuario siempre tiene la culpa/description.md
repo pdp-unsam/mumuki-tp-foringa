@@ -42,10 +42,4 @@ Se pide:
   > Los usuarios full estrellas no pueden upgradearse más, así que están fuera de este dominio.
   
 
-
-
-
-
-
-
-
+> Recordá que ya definimos las funciones `puntosBase`, `esMolesto`, `responder`, `puntosTotales` y `mensajesPopulares`!
