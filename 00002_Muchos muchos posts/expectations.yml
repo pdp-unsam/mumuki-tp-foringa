@@ -5,6 +5,6 @@ expectations:
 - binding: mensajesPopulares
   inspection: HasTypeSignature
 - binding: puntosTotales
-  inspection: HasUsage:(.)
+  inspection: HasComposition
 - binding: mensajesPopulares
-  inspection: HasUsage:(.)
+  inspection: HasComposition
