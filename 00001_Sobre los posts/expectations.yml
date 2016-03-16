@@ -1,8 +1,8 @@
 ---
 expectations:
 - binding: puntosBase
-  inspection: HasTypeDeclaration
+  inspection: HasTypeSignature
 - binding: esMolesto
-  inspection: HasTypeDeclaration
+  inspection: HasTypeSignature
 - binding: responder
-  inspection: HasTypeDeclaration
+  inspection: HasTypeSignature
