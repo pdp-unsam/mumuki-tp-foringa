@@ -8,5 +8,3 @@ expectations:
   inspection: HasComposition
 - binding: mensajesPopulares
   inspection: HasComposition
-- binding: puntosTotales
-  inspection: HasBinding
