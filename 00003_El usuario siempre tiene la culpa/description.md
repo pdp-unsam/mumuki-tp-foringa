@@ -33,7 +33,7 @@ Se pide:
 
 1. Saber las `iniciales/1` de un usuario, estas son las primeras 3 letras de su nick.
 
-2. Obtener un `mensajito/1` para un usuario (para mostrar en como _preview_). El mensajito de un usuario son las primeras 3 letras del mensaje del primer post.
+2. Obtener un `mensajito/1` para un usuario (para mostrar en una _preview_). El mensajito de un usuario son las primeras 3 letras del mensaje del primer post.
 
 3. Poder `upgradear/1` a un usuario, con las siguientes indicaciones:
   - Si el usuario es nuevo y suma más de 100 puntos totales en sus posts => pasa a ser full estrella,
