@@ -1,0 +1,18 @@
+---
+expectations:
+- binding: iniciales
+  inspection: HasBinding
+- binding: mensajito
+  inspection: HasBinding
+- binding: upgradear
+  inspection: HasBinding
+- binding: iniciales
+  inspection: HasTypeSignature
+- binding: mensajito
+  inspection: HasTypeSignature
+- binding: upgradear
+  inspection: HasTypeSignature
+- binding: iniciales
+  inspection: HasComposition
+- binding: mensajito
+  inspection: HasComposition
