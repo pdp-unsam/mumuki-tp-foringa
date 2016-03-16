@@ -18,6 +18,7 @@ fer = Full "Fernando" Estrella postsDeFer
 ```
 
 También ya tenemos definidas las siguientes funciones:
+
 ```Haskell
 nick (Nuevo n _) = n
 nick (Full n _ _) = n
