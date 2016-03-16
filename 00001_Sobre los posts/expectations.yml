@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: puntosBase
+  inspection: HasTypeDeclaration
+- binding: esMolesto
+  inspection: HasTypeDeclaration
+- binding: responder
+  inspection: HasTypeDeclaration
