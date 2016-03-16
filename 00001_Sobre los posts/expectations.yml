@@ -6,3 +6,9 @@ expectations:
   inspection: HasTypeSignature
 - binding: responder
   inspection: HasTypeSignature
+- binding: puntosBase
+  inspection: HasBinding
+- binding: esMolesto
+  inspection: HasBinding
+- binding: responder
+  inspection: HasBinding
