@@ -41,8 +41,7 @@ Se pide:
   - Si el usuario es nuevo y no suma más de 100 puntos totales ni tiene ningún post molesto => pasa a ser full groso,
   - Si el usuario es full novato => pasa a ser full groso,
   - Si el usuario es full groso => pasa a ser full estrella
-
-  > Los usuarios full estrellas no pueden upgradearse más, así que están fuera de este dominio.
+  - > Los usuarios full estrellas no pueden upgradearse más, así que están fuera de este dominio.
 
 
 
