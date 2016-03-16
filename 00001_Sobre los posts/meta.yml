@@ -1,8 +1,8 @@
 ---
 tags:
 - tuplas
-- pattern-matching
 - listas
+- pattern matching
 layout: editor_right
 type: problem
 extra_visible: false
