@@ -43,6 +43,7 @@ Se pide:
   - Si el usuario es full groso => pasa a ser full estrella
 
   > Los usuarios full estrellas no pueden upgradearse más, así que están fuera de este dominio.
-  
+
+
 
 > Recordá que ya definimos las funciones `puntosBase`, `esMolesto`, `responder`, `puntosTotales` y `mensajesPopulares`!
