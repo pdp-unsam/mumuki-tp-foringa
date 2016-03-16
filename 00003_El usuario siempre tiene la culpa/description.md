@@ -1,6 +1,7 @@
 Excelente! Ya casi terminamos.
 
 Ningún foro funciona si no tiene usuarios. Por suerte, este foro sí los tiene. Es más, tiene dos clases de usuarios, los _Nuevos_ y los _Full_. Estos últimos, además, pueden ser _Novatos_, _Grosos_ o _Estrellas_.
+
 Nos dijeron que están modelados con un tipo de dato propio:
 
 ```Haskell
