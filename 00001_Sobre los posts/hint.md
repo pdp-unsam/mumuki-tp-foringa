@@ -1,6 +1,6 @@
 - Haskell ya viene con la función `words :: String -> [String]` que dado un texto lo divide en palabras (por espacios). Por ej:
 
-``` Haskell
+```Haskell
 > words "Separar en palabras"
 ["Separar","en","palabras"]
 ```
