@@ -1,6 +1,6 @@
 type Post = (String, Int)
 
-data Categoria = Newbie | Groso | Estrella deriving (Show, Enum)
+data Categoria = Novato | Groso | Estrella deriving (Show, Enum)
 
 data Usuario =
 	Nuevo {
