@@ -7,6 +7,10 @@ tags:
 - pattern matching
 - orden superior
 - composicion
-layout: editor_right
+layout: input_right
+editor: code
 type: problem
 extra_visible: false
+language: 
+teacher_info: 
+manual_evaluation: false
