@@ -10,7 +10,7 @@ Se pide:
 
 2. Saber si un post `esMolesto/1`. Un post se considera molesto cuando tiene un puntaje negativo, o bien es _spam_. Se considera _spam_ a todo post cuyo mensaje contenga la palabra `"ATENCION"`.
 
-3. `responder/2` un post. Esto significa que dado un post (pregunta) y una mensaje (respuesta) crea un nuevo post con puntaje 0 y un mensaje con el formato "<PREGUNTA> -- <RESPUESTA>". Por ej:
+3. `responder/2` un post. Esto significa que dado un post (pregunta) y una mensaje (respuesta) crea un nuevo post con puntaje 0 y un mensaje con el formato "`<PREGUNTA>` -- `<RESPUESTA>`". Por ej:
 
 ```Haskell
 > responder ("Maniana hay clases?", 3) "Si"
