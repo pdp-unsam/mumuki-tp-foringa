@@ -3,10 +3,11 @@ name: Funcional - Foringa
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:
 - 1
 - 2
 - 3
+private: false

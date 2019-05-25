@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: puntosBase
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosBase
   inspection: HasTypeSignature
-- binding: esMolesto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMolesto
   inspection: HasTypeSignature
-- binding: responder
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: responder
   inspection: HasTypeSignature
-- binding: puntosBase
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosBase
   inspection: HasBinding
-- binding: esMolesto
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMolesto
   inspection: HasBinding
-- binding: responder
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: responder
   inspection: HasBinding

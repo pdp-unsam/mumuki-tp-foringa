@@ -1,18 +1,26 @@
 ---
 expectations:
-- binding: iniciales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iniciales
   inspection: HasBinding
-- binding: mensajito
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mensajito
   inspection: HasBinding
-- binding: upgradear
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: upgradear
   inspection: HasBinding
-- binding: iniciales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iniciales
   inspection: HasTypeSignature
-- binding: mensajito
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mensajito
   inspection: HasTypeSignature
-- binding: upgradear
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: upgradear
   inspection: HasTypeSignature
-- binding: iniciales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iniciales
   inspection: HasComposition
-- binding: mensajito
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mensajito
   inspection: HasComposition

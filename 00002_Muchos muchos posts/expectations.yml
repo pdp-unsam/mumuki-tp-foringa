@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: puntosTotales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosTotales
   inspection: HasTypeSignature
-- binding: mensajesPopulares
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mensajesPopulares
   inspection: HasTypeSignature
-- binding: puntosTotales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosTotales
   inspection: HasComposition
-- binding: mensajesPopulares
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mensajesPopulares
   inspection: HasComposition
-- binding: puntosTotales
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: puntosTotales
   inspection: HasBinding
-- binding: mensajesPopulares
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: mensajesPopulares
   inspection: HasBinding
